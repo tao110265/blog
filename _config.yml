@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 吉吉愛好者-人間體驗記
 subtitle: ''
-description: ''
-keywords:
-author: John Doe
+description: 人間是來體驗的，感受一切的流動
+keywords: 旅遊,自由行,景點,行程,規劃,國外,travel,自建網頁,網頁,Hexo,next,部落格,githubs,markdown,程式語言
+author: Tao UD
 language: zh-TW
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://example.com
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -108,4 +108,3 @@ search:
   field: post
   content: true
   format: html
-  
