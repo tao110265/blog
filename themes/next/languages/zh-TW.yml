@@ -23,7 +23,7 @@ post:
   posted: 發表於
   edited: 更新於
   created: 創建時間
-  modified: 修改時間
+  modified: 更新時間
   edit: 編輯
   in: 分類於
   read_more: 閱讀全文
@@ -40,7 +40,7 @@ post:
     license_content: "本網誌所有文章除特別聲明外，均採用 %s 許可協議。轉載請註明出處！"
     license_content_reprint: "This article is a reprinted article and has been reprinted with permission. Please indicate the source!"
 footer:
-  powered: "由 %s 強力驅動"
+  powered: "由 %s 驅動"
   total_views: 總瀏覽次數
   total_visitors: 訪客總數
 widget:
@@ -81,12 +81,12 @@ symbol:
   period: "。"
   colon: "："
 reward:
-  donate: 捐贈
+  donate: 抖內支持 
   wechatpay: 微信支付
   alipay: 支付寶
   paypal: 貝寶
   bitcoin: 比特幣
-  comment: Buy me a coffee
+  comment: 謝謝你溫暖的陪我一起旅行 🙌🏽
 follow_me:
   welcome: 歡迎關注我的其它發布渠道
 accessibility:
