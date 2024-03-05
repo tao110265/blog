@@ -52,9 +52,9 @@ darkmode: false
 
 favicon:
   small: /images/favicon-16x16-next.png
-  medium: /images/favicon-32x32-next.png
-  apple_touch_icon: /images/apple-touch-icon-next.png
-  safari_pinned_tab: /images/custom-logo.png
+  medium: /images/favicon-duck-32x32.png
+  apple_touch_icon: /images/favicon-duck-32x32.png
+  safari_pinned_tab: /images/favicon-duck-32x32.png
   #android_manifest: /manifest.json
 
 # Custom Logo (Warning: Do not support scheme Mist)

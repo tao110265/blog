@@ -54,6 +54,13 @@
     {#################}
     <div class="post-body{% if post.direction and post.direction.toLowerCase() === 'rtl' %} rtl{% endif %}" itemprop="articleBody">
       {%- if is_index %}
+
+       {% if post.cover  %}
+          <div class="out-img-topic">
+            <img src={{ post.cover }} with="200" heigh="300" class="img-topic">
+          </div>
+        {% endif %}
+      
         {%- if post.description and theme.excerpt_description %}
           <p>{{ post.description }}</p>
           <!--noindex-->
