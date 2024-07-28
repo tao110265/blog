@@ -6,7 +6,6 @@ tags:
   - 從零開始架設部落格
 categories: 
   - 🌴 從零開始架設部落格-新手小白的學習筆記
-  - 免費架設平台 - hexo、GitHub
 ---
 >將你的 HEXO 部落格部屬到 GITHUB PAGES	
 >將HEXO使用GIT指令備份到GITHUB儲存庫另一個分支	
