@@ -1,8 +1,8 @@
 ---
-title: 【倫敦-交通】Big bus怎麼搭？實際搭乘分享
+title: 【倫敦-交通】倫敦 Big bus 怎麼搭？實際搭乘分享
 date: 2024-02-25 19:03:18
 updated: 2024-02-25 19:03:18
-cover: /images/london_food.jpg
+cover: /images/
 tags:
   - 英國自助遊
 categories: 

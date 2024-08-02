@@ -2,7 +2,7 @@
 title: 【倫敦-交通】飛機：台灣桃園-杜拜轉機-英國倫敦
 date: 2024-02-25 20:03:18
 updated: 2024-02-23 20:03:18
-cover: /images/plane.jpg
+cover: /images/plane-Emirates.jpg
 tags:
   - 英國自助遊
 categories: 
