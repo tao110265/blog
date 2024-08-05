@@ -2,20 +2,19 @@
 title: 【倫敦-交通】倫敦公車怎麼搭？實際搭乘分享
 date: 2024-02-25 19:03:18
 updated: 2024-02-25 19:03:18
-cover: /images/london_food.jpg
+cover: /images/
 tags:
   - 英國自助遊
 categories: 
   - 🌴 旅遊體驗分享-目前皆為自助遊
   - 🥥 英國（倫敦） 
 ---
->	旅行日期：12月中的平日
->	使用<font color=#4287B5> <u>感應式信用卡</u> 或<u>行動支付</u></font>搭乘者：<font color=#4287B5>上車刷卡就行，下車不用刷。</font>
->	有使用的app：Citymapper、Google Maps
+>	+ 使用 <font color=#4287B5><u>感應式信用卡</u>或<u>行動支付</u></font> 搭乘者：<font color=#4287B5>上車刷卡就行，下車不用刷</font>
+>	+ 有使用的app：Citymapper、Google Maps
 <!-- more -->
 
 ### 票價資訊、使用感應式信用卡或行動支付刷進站的注意事項：
-+ 請參考另一篇文章： <font color=#4287B5>英國倫敦-地鐵、火車、公車票價資訊、如何使用感應式信用卡搭乘？</font>
++ 請參考另一篇文章： <font color=#4599B6>【倫敦-交通】（地鐵、火車、公車）票價資訊、如何使用感應式信用卡搭乘？</font>
 
 ### 路線規劃：
 + Citymapper、google map：

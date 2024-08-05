@@ -2,7 +2,7 @@
 title: 【荷蘭-交通】飛機：英國倫敦 -> 荷蘭阿姆斯特丹
 date: 2024-02-25 23:03:18
 updated: 2024-02-25 23:03:18
-cover:
+cover: /images/
 tags:
   - 荷蘭自助遊
 categories: 

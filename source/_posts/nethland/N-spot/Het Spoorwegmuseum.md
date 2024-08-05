@@ -1,7 +1,8 @@
 ---
-title: 【荷蘭-美食】
-date: 2024-02-25 22:03:18
-updated: 2024-02-25 22:03:18
+title: 【阿姆斯特丹-景點】
+date: 2024-02-26 09:03:18
+updated: 2024-02-26 09:03:18
+cover: /images/
 tags:
   - 荷蘭自助遊
 categories: 

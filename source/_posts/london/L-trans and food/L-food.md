@@ -10,7 +10,8 @@ categories:
   - 🥥 英國（倫敦） 
 ---
 >	旅程中主要透過超市、Pret來解決三餐，搜集了蠻多名單，分享給大家，實際走訪後，發現倫敦街頭蠻多超市。
->	也吃了烤龍蝦、龍蝦堡
+>	我愛烤龍蝦
+
 <!-- more -->
 
 ### 超市：
@@ -44,6 +45,8 @@ categories:
 ### 波羅市場
 >	本人喜好程度：🌝🌝🌝 旅伴喜好程度：🌝🌝
 >	停留時長：40min
++ **Wild Mushroom Risotto 松露蕈菇燉飯：**好吃但對我來說很鹹
++ **Fish!Borough Market Restaurant 炸魚薯條：**普普
 
 >鄰近景點：
 > 1 .參觀完<font color=#4599B6>倫敦塔</font>或<font color=#4599B6>倫敦塔橋</font>後，可沿著泰晤士河畔步道（The Riverside walk）散步，走路約15分鐘即可抵達波羅市場
