@@ -1,5 +1,5 @@
 ---
-title: 【倫敦-景點】福爾摩斯博物館 (Sherlock Holmes Museum)、商店、雕像
+title: 【阿姆斯特丹-景點】梵谷博物館 (Van Gogh Museum)
 date: 2024-02-25 21:03:18
 updated: 2024-02-25 21:03:18
 cover: /images/
@@ -9,45 +9,55 @@ categories:
   - 🌴 旅遊體驗分享-目前皆為自助遊
   - 🥥 荷蘭（阿姆斯特丹、烏特勒支、馬斯垂克） 
 ---
->這次只有逛紀念品店沒有進入博物館內參觀
-福爾摩斯博物館商店：本人喜好程度：🌝🌝🌝🌝 旅伴喜好程度：🌝🌝
-停留時長：30min
-鄰近景點：小威尼斯、國家美術館
+>本人喜好程度：🌝🌝🌝 旅伴喜好程度：🌝🌝🌝🌝
+遊玩時長：1.5hr
+鄰近景點：荷蘭國家博物館 Rijksmuseum
 
 <!-- more -->
 
-### 福爾摩斯紀念品店：
-商店網址：https://shop.sherlock-holmes.co.uk/
-即使沒買隔壁福爾摩斯博物館的門票也可以免費進商店歐，像我有事先在官網選好想買的紀念品，是目的性購物嘿嘿，家人喜歡小提琴，在店內買了一個微型小提琴當作禮物，那時候臨近聖誕節，商店內有聖誕樹、一些聖誕裝飾，整體氛圍很有過節氣氛。 
-
-### 福爾摩斯博物館：（下方資訊整理至官網）
-官網：https://www.sherlock-holmes.co.uk/
-門票：官網通常都不能退票，可以查看看其他購票網
-
-<font color=#4287B5>關於博物館</font>
-+ 位於倫敦貝克街 221B號，為世界上最著名的地址之一，博物館建築是一棟華麗的四層喬治亞風格聯排別墅，其歷史可追溯至1815年，幾十年來一直用作住宿，但現在已被列為保護建築和文化遺產。
-+ 空間小而溫馨，擺滿了正宗的維多利亞式家具和珍品，精心再現了倫敦標誌性偵探的煤氣燈世界和他的維多利亞時代環境。沉浸在與夏洛克和他所偵破的著名案件有關的物品寶庫中。
-+ 官網還可以測驗自己有多了解福爾摩斯，可以玩看看
+### 語音導覽： 
++ 需花錢加購，有中文可選擇
  
-<font color=#4287B5>參觀時長</font>  
-+ 平均為30-45分鐘。經過簡短的介紹後，將是自助式的參觀，在開放時間內不限制停留時間。
+### 參觀動線：
++ 有臨時展覽、常設展覽可以看，它們隸屬不同建築物，當天我參觀時，臨時展覽有特別說不可以拍照，常設展覽則可以。
 
-<font color=#4287B5>注意事項</font>
-+ 門票僅在預訂確認信中顯示的日期和時間有效，<font color=#c36d67>必須在預訂時間前至少10分鐘抵達，並攜帶門票到紀念品商店內的收銀員處報到</font>，若提前10分鐘報到，門票將失效。
-+ 無法提供衣帽間或行李寄存處。
-+ 由於房間的面積較小，當博物館很多人時，務必保持耐心和尊重。
+### 參觀心得：
++ 參觀前沒有特別仔細看官網有關文森・梵谷的生平故事，所以實際參訪時沒有很大的連結感，也因為聖誕週人潮很多，沒辦法靜下心來欣賞畫作，參觀到後面發現窗外有大太陽！心思更是飄到等等要去的戶外景點<font color=#4599B6>風車村</font>。
++ 畫作主要為花、水果、人像、風景，畫作偏小幅，比起現場實際參訪，官網上的生平故事會更吸引我一些。
 
-<font color=#4287B5>參觀範圍</font>
-**一樓：**
-入口處會有一位女僕或管家迎賓。進入後，場景為保存完好的書房，您幾乎可以想像福爾摩斯和華生正抽著菸斗在討論案件或會見客戶。
-**二樓：**
- + **華生醫生的臥室**
-井然有序，整潔得像個軍人。你可能會發現華生搜集了非常罕見的醫學文獻、關於巴斯克維爾案的筆記，甚至會看見藝術家Sidney Paget在著名的福爾摩斯插圖中所描繪的椅子。
- + **女房東哈德森夫人的房間**
-您可以發現關於禮儀和烹飪的維多利亞時代罕見書籍、夏洛克著名案件的紀念品。
+### 故事概述 🌟🌟🌟🌟🌟
+網址：
+https://www.vangoghmuseum.nl/en/art-and-stories/stories/stories-overview
+我非常喜歡官網這個特區，不只可以從故事中了解文森・梵谷的生平，還可以了解畫作創作的背景，我選了幾篇我覺得蠻重要的故事放在下方，有興趣的歡迎看看：
++ 文森・梵谷(Vincent Van Gogh)與西奧・梵谷(Theo van Gogh)的兄弟情
+網址：
+https://www.vangoghmuseum.nl/en/art-and-stories/stories/all-stories/the-brothers-vincent-and-theo
+ 
++ 文森・梵谷的友情 
+網址：
+https://www.vangoghmuseum.nl/en/stories/friendships-for-better-and-for-worse
 
-**頂樓：**
-與Professor Moriarty,以及其他令人難忘的人物面對面，包括迷人的Irene Adler。近距離接觸真人大小、栩栩如生的蠟像，見證福爾摩斯最黑暗案件中的高潮時刻。
++ 文森・梵谷的愛情 -在愛情上有過幸運嗎？
+網址：
+https://www.vangoghmuseum.nl/en/stories/his-unrequited-loves#0
 
-### 福爾摩斯雕像
-在地鐵出口附近的裝置藝術
++ 文森・梵谷的病與藝術的療癒力量-關於他的精神疾病
+ 網址：
+ https://www.vangoghmuseum.nl/en/art-and-stories/stories/vincents-illness-and-the-healing-power-of-art
+
++ 文森・梵谷的最後日子
+ 網址：
+ https://www.vangoghmuseum.nl/en/art-and-stories/stories/the-last-days-of-vincent-van-gogh
+
++ 讓文森・梵谷成名的女人
+ 網址：
+ https://www.vangoghmuseum.nl/en/art-and-stories/stories/the-woman-who-made-vincent-famous
+
++ 梵谷與音樂
+ 網址：
+ https://www.vangoghmuseum.nl/en/art-and-stories/van-gogh-and-music 
+官網只有放四部影片，但我上Youtube查詢發現有八部音樂系列影片
+可於Youtube搜尋：**「Hear The Painting | Music Inspired By Van Gogh」**
+即可看到Van Gogh Museum 官方博物館所建立的合輯
+網址：
+https://www.youtube.com/watch?v=XbfaqDJVx8s&list=PLp9bGKxyieV1R6oh9PIiSy-AGHkXCfMgz&ab_channel=VanGoghMuseum

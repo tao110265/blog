@@ -1,5 +1,5 @@
 ---
-title: 【倫敦-景點】六天五夜倫敦遊-行程時間表 (含使用london pass）
+title: 【倫敦-行程表】六天五夜倫敦遊-行程時間表 (含使用london pass）
 date: 2024-02-25 21:03:18
 updated: 2024-02-25 21:03:18
 cover: /images/
@@ -9,12 +9,11 @@ categories:
   - 🌴 旅遊體驗分享-目前皆為自助遊
   - 🥥 英國（倫敦） 
 ---
->旅行日期：2023.12/19~12/24
-分享我的行程表給各位參考，✅是指預計要去，實際有去，❌是指預計要去，實際沒去，🍜是指超市或吃東西 
+>分享我的行程表給各位參考，✅是指預計要去，實際有去，❌是指預計要去，實際沒去，🍜是指超市或吃東西 
 
 <!-- more -->
 
-### DAY1 (12/18的23:45於桃機起飛，開始20hr的飛行，體力耗盡大爆睡)
+### DAY1 (23:45於桃機起飛，開始20hr的飛行，體力耗盡大爆睡)
 ✅ **表定11:40降落蓋威克機場--> 13:30搭上火車前往住宿**
 ❌ **大英博物館 BRITISH MUSEUM**  
 🍜 **Waitrose & Partners超市-買晚餐**
@@ -22,17 +21,16 @@ categories:
 ### DAY2（使用london pass）
 ✅ **<font color=#4599B6>倫敦塔 (tower of london)</font> ：9:30-11:30**
 ✅ **<font color=#4599B6>倫敦塔橋 (Tower Bridge)</font> ：11:30-12:30**
-🍜 **波羅市場-吃午餐：13:10-13:50**
+🍜 **<font color=#4599B6>波羅市場（Borough Market）</font>-吃午餐：3:10-13:50**
 ✅ **<font color=#4599B6>聖保羅座堂 (St. Paul's Cathedral)</font>：14:10-17:30**（含40分鐘彌撒）
 🍜 **Nando's One New Change-吃晚餐：18:20-19:05**
-食物有上錯，可能因為客人多，店員動作、說話都蠻急的，不是讓我能覺得放鬆的地方
 
 ### DAY3（使用london pass）
 ✅ **大笨鐘、倫敦眼：9:25-9:50**
 從遠處看看拍照
 ✅ **<font color=#4599B6>西敏寺 (Westminster Abbey)：</font>10:00-13:00**
 原本預計時間是抓1.5小時，當初知道會參觀西敏寺內部一樓、外面迴廊，但沒想到光是跟著語音導覽走就需要花費1小時，也沒想到參觀範圍實際很大，當天還有去內部小公園、走訪二樓的付費展覽，結果後面行程大塞車哈哈
-🍜 **Pret-吃午餐：13:15-13:50**
+🍜 **<font color=#4599B6>Pret</font>-吃午餐：13:15-13:50**
 有很多口味的三明治
 ❌ **<font color=#4599B6>白金漢宮的女王畫廊 (The Queen's Gallery)、皇家馬廄 (The Royal Mews)**</font>：
 沒預料到西敏寺還有付費展區可以參觀，來不及去
@@ -52,8 +50,7 @@ Big bus塞車，壓縮到參觀時間，建議可以參觀時長可以抓1.5hr�
 ✅ **<font color=#4599B6>科學博物館 (Science Museum)</font>： 12:15-13:30**
 ✅ **<font color=#4599B6>自然史博物館 (Natural History Museum) </font>：13:35-15:15**
 ✅ **<font color=#4599B6>維多利亞與亞伯特博物館 (Victoria and Albert Museum)</font>：15:40-18:00**
-🍜 **Honest Burgers South Kensington-吃晚餐**：
-外帶排了20分鐘，但旁邊有商店可以逛，水牛醬雞排偏死鹹，聖誕素食好吃
+🍜 **<font color=#4599B6>Honest Burgers South Kensington</font>-吃晚餐**：
 
 ### DAY5 (最期待的歌劇魅影、龍蝦！！)
 ✅ **<font color=#4599B6>小威尼斯 (little venice)</font>：9:25-9:50**
@@ -66,10 +63,9 @@ Big bus塞車，壓縮到參觀時間，建議可以參觀時長可以抓1.5hr�
 🍜 **tesco express Baker Street-超市** (進去晃一圈)
 🏃🏽**散步到Bond Street**
 ✅ **<font color=#4599B6>國家美術館 (National Art Museum)</font>：12:15-13:45**
-🍜 **Pret-吃午餐**
+🍜 **<font color=#4599B6>Pret</font>-吃午餐**
 ✅ **<font color=#4599B6>歌劇魅影 (Phantom of the Opera)</font>：14:30-17:00**
-🍜**burgers and lobster Soho-吃晚餐：17:25-18:40**
- 烤龍蝦好吃，龍蝦三明治醬的味道太重會把龍蝦味道壓住
+🍜 **<font color=#4599B6>burgers and lobster Soho</font>-吃晚餐：17:25-18:40**
 ✅ **<font color=#4599B6> M&M'S London：</font>18:55-19:25**
 正對面有樂高店可以一起安排，當天兩個都要排隊入場
 ✅ **<font color=#4599B6>聖誕節天使燈飾</font>**
