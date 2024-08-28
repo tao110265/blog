@@ -26,9 +26,14 @@ categories:
 <font color=#D1756F>藕粉色is me</font>
 <font color=#c36d67>灰粉色is me</font>
 <font color=#4599B6>文章連結顏色is me</font>
-
+<font color=#909497>灰色</font>
+#### <font color=#E08484>玫瑰粉色</font>
+#### <font color=#7FADD9>寶寶藍</font>
+#### <font color=#7AA2C7>灰藍色</font> 
  <u>正前方</u> ：底線
 
  **粗體** 
 
  換行：  <br>
+ 🚄搭火車：
+ 🚇搭地鐵：
