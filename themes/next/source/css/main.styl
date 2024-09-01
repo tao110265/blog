@@ -45,3 +45,18 @@ for $inject_mixin in hexo-config('injects.mixin')
 // --------------------------------------------------
 for $inject_style in hexo-config('injects.style')
   @import $inject_style;
+
+/*閱讀全文-鼠標放上前的顏色*/
+.post-button .btn {
+    color: #424242!important; /*文字顏色*/
+    background-color: #f1d7cd; /*背景顏色*/
+    font-size: 18px;         /*字體大小*/
+    border-radius: 10px 10px 10px 10px; /*圓弧幅度*/
+}
+
+/*閱讀全文-鼠標放上後的顏色*/
+.post-button .btn:hover{
+  color: #424242!important; /*文字顏色*/
+  background: #f3bca9; /*背景顏色*/
+} 
+

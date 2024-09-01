@@ -2,13 +2,14 @@
 title: 【馬斯垂克-景點】馬斯垂克(Maastricht)-二日遊
 date: 2024-02-26 09:03:18
 updated: 2024-02-26 09:03:18
-cover: /images/
 tags:
-  - 荷蘭自助遊
+  - 荷蘭-馬斯垂克.海爾倫.法肯堡
 categories: 
   - 🌴 旅遊體驗分享-目前皆為自助遊
   - 🥥 荷蘭（阿姆斯特丹、烏特勒支、馬斯垂克）
 ---
+>DAY1：Maastricht-> Heerlen-> Valkenburg -> Maastricht
+>DAY2：Maastricht -> Amsterdam Centraal
 <!-- more -->
 ### DAY1：Maastricht-> Heerlen-> Valkenburg -> Maastricht
 **🚄 搭火車：Maastricht-> Heerlen**

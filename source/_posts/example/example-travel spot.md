@@ -2,7 +2,6 @@
 title: 【倫敦-美食】旅遊貼文模版-2
 date: 2024-02-25 19:03:18
 updated: 2024-02-25 19:03:18
-cover: /images/london_food.jpg
 tags:
   - 模版
 categories: 
@@ -37,3 +36,9 @@ categories:
  換行：  <br>
  🚄搭火車：
  🚇搭地鐵：
+
+ ### 插入影片：
++ 用法
+{% video url %}
++ 範例
+{% video https://example.com/sample.mp4 %}

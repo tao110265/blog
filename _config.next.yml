@@ -98,7 +98,7 @@ open_graph:
 menu:
   home: / || fa fa-home
   about: /about/ || fa fa-user
-  #tags: /tags/ || fa fa-tags
+  tags: /tags/ || fa fa-tags
   categories: /categories/ || fa-solid fa-list
   archives: /archives/ || fa-regular fa-calendar-check
   #schedule: /schedule/ || fa fa-calendar
@@ -309,8 +309,8 @@ post_navigation: left
 
 # TagCloud settings for tags page.
 tagcloud:
-  min: 12 # Minimum font size in px
-  max: 30 # Maximum font size in px
+  min: 20 # Minimum font size in px
+  max: 20 # Maximum font size in px
   amount: 200 # Total amount of tags
   orderby: name # Order of tags
   order: 1 # Sort order

@@ -2,7 +2,6 @@
 title: 【旅行-概要】國家觀察篇（倫敦、荷蘭、維也納）
 date: 2024-02-25 19:03:18
 updated: 2024-02-25 19:03:18
-cover: /images/
 tags:
   - 行李攜帶、觀察紀錄
 categories: 

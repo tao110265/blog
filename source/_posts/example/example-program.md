@@ -26,3 +26,22 @@ categories:
 {% codeblock %}
 內文
 {% endcodeblock %}
+
+{% codeblock %}
+.posts-expand .post-tags a {
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .12), 0 1px 2px rgba(0, 0, 0, .24);
+  -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .12), 0 1px 2px rgba(0, 0, 0, .24);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, .12), 0 1px 2px rgba(0, 0, 0, .24);
+  font-family: 'Comic Sans MS', sans-serif;
+  transition: .2s ease-out;
+  padding: 3px 5px;
+  margin: 5px;
+  background: #f5f5f5;
+  border-bottom: none;
+  border-radius: 15px;
+
+  +mobile(){
+    padding: 1px 3px;
+    font-size: 8px;
+  }
+{% endcodeblock %}

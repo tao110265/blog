@@ -1,25 +1,28 @@
 ---
-title: 【倫敦-景點】London pass：探索者通行證、全天暢遊通行證是什麼？涵括的景點有哪些、該如何使用？ 
+title: 【倫敦-景點】London pass：探索者通行證、全天暢遊通行證是什麼？有哪些景點？、該如何使用？ 
 date: 2024-02-25 21:03:18
 updated: 2024-02-25 21:03:18
-cover: /images/
 tags:
-  - 英國自助遊
+  - 倫敦-景點.行程表
 categories: 
   - 🌴 旅遊體驗分享-目前皆為自助遊
   - 🥥 英國（倫敦） 
 ---
 
 ### 實際經驗分享：
-> + 購買兩日票
+> + 我是買「全天暢遊通行證」的兩日票
 > + 安排的景點：<font color=#c36d67>西敏寺、聖保羅座堂、倫敦塔橋、倫敦塔、Frameless Immersive Art Experience、搭乘big bus、白金漢宮的女王畫廊、皇家馬廄、阿普斯利邸宅。</font>
 >（後面三個景點在實際遊玩時沒去到，低估了西敏寺的參觀時長、Big bus的搭乘時間)
 > + 跑行程的實際花費時間可參考<font color=#4599B6>五天四夜倫敦遊 london pass如何玩？</font>
 
 <!-- more -->
 
+### London pass景點：
+官網：https://londonpass.com/en/london-attractions
+
 ### Klook ：探索者通行證 （任選2、3、4、5、6、7個景點入場）
-官網：https://www.klook.com/zh-TW/activity/18510-explorer-pass-london/
+官網：
+https://www.klook.com/zh-TW/activity/18510-explorer-pass-london/
 
 ### Kkday：全天暢遊通行證（任選1、2、3、4、5、6、7、10日）
 官網：
@@ -46,11 +49,8 @@ https://www.kkday.com/zh-tw/product/5019-london-all-inclusive-pass?cid=4029
     於驗票處出示London pass的 QR code 即可入內</font> ，若當日人潮太多，工作人員可能會根據現場狀況安排參觀時段。
 
 + #### 享受1日隨上隨下巴士之旅 ：
-  + <font color=#c36d67>買日票可以兌換 Golden Tours 或 Big Bus的1日車票，當日可無限搭乘，像我買兩日票，一樣只能選一天搭觀光巴士，不是每天都可以搭歐。</font> 我是選Big Bus，實際搭乘情況可參考<font color=#4599B6>Big bus怎麼搭？實際搭乘分享</font> 。
-  + 有關<font color=#c36d67> Golden Tours </font>的路線、停靠點和運營日期等詳細信息：
+  + 當初購買日票時可以兌換「Golden Tours」或「Big Bus」的<font color=#c36d67>1日車票</font> (**現在好像只剩「Big Bus」可選擇**) ，<font color=#c36d67>當日可無限搭乘，像我買兩日票，一樣只能選一天搭觀光巴士，不是每天都可以搭歐</font>，我是選「Big Bus」，實際搭乘情況可參考<font color=#4599B6>Big bus怎麼搭？實際搭乘分享</font> 。
+  + **「Golden Tours」**的路線、停靠點和運營日期等詳細信息：
   請訪問  https://goldentours.com
-  + 有關<font color=#c36d67> Big Bus </font>的路線、停靠點和運營日期的詳細信息：
+  + **「Big Bus」**的路線、停靠點和運營日期的詳細信息：
   請訪問 https://bigbustours.com
-
-### London pass景點：
-官網：https://londonpass.com/en/london-attractions
