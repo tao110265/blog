@@ -3,10 +3,10 @@ title: 【荷蘭-交通】(電車、火車、公車...) 票價資訊、如何使
 date: 2024-02-25 19:03:18
 updated: 2024-02-25 19:03:18
 tags:
-  - 荷蘭-交通.美食.行程表
+  - 荷蘭-交通.美食
 categories: 
   - 🌴 旅遊體驗分享-目前皆為自助遊
-  - 🥥 荷蘭（阿姆斯特丹、烏特勒支、馬斯垂克）
+  - 🥥 荷蘭（阿姆斯特丹、烏特勒支、馬斯垂克、海爾倫、法肯堡）
 ---
 ### 簡要說明：
 + 本次旅行地點除了荷蘭市區外還有移動到郊區，移動軌跡含<font color=#4287B5>Amsterdam (阿姆斯特丹)</font>、<font color=#4287B5>Zaandijk Zaanse Schans (風車村)</font>、<font color=#4287B5>Utrecht (烏特勒支)</font>、<font color=#4287B5>Maastricht (馬斯垂克)</font>、<font color=#4287B5>Vleuten (法肯爾堡)</font>、<font color=#4287B5>Heerlen (海爾倫)。</font>

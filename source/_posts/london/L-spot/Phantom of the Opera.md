@@ -3,16 +3,17 @@ title: 【倫敦-景點】歌劇魅影 (The Phantom of the Opera)
 date: 2024-02-25 21:03:18
 updated: 2024-02-25 21:03:18
 tags:
-  - 倫敦-景點.行程表
+  - 倫敦-景點
 categories: 
   - 🌴 旅遊體驗分享-目前皆為自助遊
   - 🥥 英國（倫敦） 
 ---
 {% cq %} 學生時期音樂老師放的影片就這麽活脫脫地出現在台上，一個在腦海裡播放， 一個發生在眼前，在此刻相互交織，匯集成新記憶 {% endcq %}
+>	門票：付費入場
 >本人喜好程度：🌝🌝🌝🌝🌝 旅伴喜好程度：🌝🌝🌝🌝
 當天觀賞場次：14:30-17:00
 演出劇院：His Majesty's Theatre
-鄰近景點：<font color=#4599B6>國家美術館</font>
+鄰近景點：<font color=#4599B6>國家美術館</font>、、M&M'S London糖果店、特拉法加廣場（Trafalgar Square）、The Crystal Maze LIVE Experience密室逃脫中心
 
 <!-- more -->
 

@@ -3,17 +3,18 @@ title: 【倫敦-景點】福爾摩斯博物館 (Sherlock Holmes Museum)、商�
 date: 2024-02-25 21:03:18
 updated: 2024-02-25 21:03:18
 tags:
-  - 倫敦-景點.行程表
+  - 倫敦-景點
+  - 會再訪
 categories: 
   - 🌴 旅遊體驗分享-目前皆為自助遊
   - 🥥 英國（倫敦） 
 ---
 {% cq %} 進入一個跨時空住宅，滿是溫馨的聖誕節裝飾，內心升起一個小暖爐，非常溫暖 {% endcq %}
->這次只有逛紀念品店沒有進入博物館內參觀
+>	門票：博物館需付費入場，但紀念品店免門票即可進入
 福爾摩斯博物館商店：本人喜好程度：🌝🌝🌝🌝 旅伴喜好程度：🌝🌝
 停留時長：30min
-鄰近景點：<font color=#4599B6>小威尼斯</font>
-、<font color=#4599B6>國家美術館</font>
+>有再訪意願：這次只有逛紀念品店，沒有買票進入博物館內參觀
+鄰近景點：<font color=#4599B6>Frameless Immersive Art Experience</font>、	Disney Store玩具店、倫敦杜莎夫人蠟像館（Madame Tussauds London）、攝政公園（The Regent's Park）、London Zoo動物園
 
 <!-- more -->
 

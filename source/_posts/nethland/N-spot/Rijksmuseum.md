@@ -6,12 +6,17 @@ tags:
   - 荷蘭-阿姆斯特丹.烏特勒支
 categories: 
   - 🌴 旅遊體驗分享-目前皆為自助遊
-  - 🥥 荷蘭（阿姆斯特丹、烏特勒支、馬斯垂克）
+  - 🥥 荷蘭（阿姆斯特丹、烏特勒支、馬斯垂克、海爾倫、法肯堡）
 ---
+>門票：付費入場
 >本人喜好程度：🌝🌝🌝🌝🌝 旅伴喜好程度：🌝🌝🌝🌝🌝
-遊玩時長：1hr
-鄰近景點：梵谷博物館
+>遊玩時長：1hr
+>門票：付費入場
+>鄰近景點：阿姆斯特丹音樂廳（Het Concertgebouw）、Moco Museum博物館、Rembrandts Amsterdam Experience沈浸式體驗、Amsterdam Pipe Museum古蹟博物館、范隆家族運河豪宅
+（Museum Van Loon）、、<font color=#4599B6>梵谷博物館</font>
 <!-- more -->
+
+### 官網：https://www.rijksmuseum.nl
 
 ### 注意事項：
 + <font color=#c36d67>僅允許攜帶A4尺寸以下的包包進入博物館</font>，不幸的是，我們的<font color=#c36d67>免費衣帽間無法寄放大包包、旅行行李、折疊自行車、樂器、滑板…等。</font>大型物件請寄放於博物館廣場的儲物櫃。

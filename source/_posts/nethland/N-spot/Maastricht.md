@@ -6,7 +6,7 @@ tags:
   - 荷蘭-馬斯垂克.海爾倫.法肯堡
 categories: 
   - 🌴 旅遊體驗分享-目前皆為自助遊
-  - 🥥 荷蘭（阿姆斯特丹、烏特勒支、馬斯垂克）
+  - 🥥 荷蘭（阿姆斯特丹、烏特勒支、馬斯垂克、海爾倫、法肯堡）
 ---
 >DAY1：Maastricht-> Heerlen-> Valkenburg -> Maastricht
 >DAY2：Maastricht -> Amsterdam Centraal
@@ -33,7 +33,7 @@ categories:
 + **聖母教堂（Basiliek van Onze Lieve Vrouw）：**
 >本人喜好程度：🌝🌝🌝🌝🌛 旅伴喜好程度：🌝🌝🌝🌝
 >遊玩時長：30min
->門票：免費參觀
+>門票：免費
 >官網：https://olv-sintpieter.nl/
 >心得：裡面燈光偏暗，是很溫暖很寧靜的氛圍，可以好好放鬆待在這裡休息一下在出發，走到迴廊處有一小區紀念品可以購買。
 

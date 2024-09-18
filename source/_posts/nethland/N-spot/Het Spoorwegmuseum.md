@@ -6,12 +6,16 @@ tags:
   - 荷蘭-阿姆斯特丹.烏特勒支
 categories: 
   - 🌴 旅遊體驗分享-目前皆為自助遊
-  - 🥥 荷蘭（阿姆斯特丹、烏特勒支、馬斯垂克）
+  - 🥥 荷蘭（阿姆斯特丹、烏特勒支、馬斯垂克、海爾倫、法肯堡）
 ---
+>門票：付費入場
 >本人喜好程度：🌝🌝🌝 旅伴喜好程度：🌝🌝🌛
 >遊玩時間：1hr
->官網：https://www.spoorwegmuseum.nl/
+>鄰近景點：<font color=#4599B6>Monseigneur Nolenspark公園</font>、<font color=#4599B6>聖馬丁主教座堂（Domkerk）</font>、<font color=#4599B6>Museum Speelklok</font>、中央博物館（Centraal Museum）、加大肋納會院博物館
+（Museum Catharijneconvent）、Dille & Kamille - Utrecht家居用品店
 <!-- more -->
+
+### 官網：https://www.spoorwegmuseum.nl/
 
 ### 參觀動線：
 + 沒有事先特別做功課，當天逛起來覺得動線不太明確，進場後大部分時間都覺得迷茫，不知道能逛哪，設施、食物攤販分散在各個地方，總共參觀到三台火車，一台可以上車，另外兩台從窗外看，大部分遊客是帶小孩的家庭，讓小孩奔跑放風。

@@ -6,21 +6,27 @@ tags:
   - 荷蘭-馬斯垂克.海爾倫.法肯堡
 categories: 
   - 🌴 旅遊體驗分享-目前皆為自助遊
-  - 🥥 荷蘭（阿姆斯特丹、烏特勒支、馬斯垂克） 
+  - 🥥 荷蘭（阿姆斯特丹、烏特勒支、馬斯垂克、海爾倫、法肯堡）
 ---
+>門票：付費入場
 >本人喜好程度：🌝🌝🌝🌝🌝 旅伴喜好程度：🌝🌝🌝🌝🌛
 >遊玩時長：1hr 40min
 >參加場次：12:15-13:25
-
+>鄰近景點：<font color=#4599B6>Monseigneur Nolenspark公園</font>
 <!-- more -->
 
 ### 簡要說明： 
-官網：https://www.exploremaastricht.nl/en
-地下導覽種類：
-https://www.exploremaastricht.nl/en/maastricht-underground
-我參加的是Guided Tour North Caves
- 
- 
++ 官網：https://www.exploremaastricht.nl/en
+
+### 城市導覽（City walk）：
++ https://www.exploremaastricht.nl/en/city-walk-maastricht
++ 透過城市漫步將馬斯垂克的歷史帶入生活，導遊會分享您在書中找不到的故事，您將了解這座城市幾個世紀以來如何發展和變化，馬斯垂克以其美麗的建築而聞名，您可以在城市漫步中近距離欣賞它們。
+
+### 地下導覽：**（（我參加的是Guided Tour North Caves**
++ https://www.exploremaastricht.nl/en/maastricht-underground
++ 透過我們有趣的馬斯垂克地下之旅，深入了解馬斯垂克豐富的過去。探索古老的洞穴，那裡的時間似乎靜止了。感受砲台的歷史，發現這些地下通道所蘊藏的戰略秘密。前往令人印象深刻的聖彼得堡，體驗前所未有的城市景觀。我們的導遊將帶您了解這些地方的生機，講述您不會很快忘記的故事。
++ 目前總共有六種，分別為「Guided Tour North Caves」、「Guided Tour Fort St Pieter」、「Guided Tour North Caves incl. The Vault」、G「uided Tour Casemates Waldeck」、「Guided Tour Zonneberg Caves」、「Comboticket Fort St Pieter + North Caves」。
+
 ### 參觀流程：
 + **集合：**
 集合地點在山坡上方，會先看見辦公室，走幾步路有間廁所，再往前走一點就是集合地點，12:15導遊出現，稍微講解一下後帶隊出發前往洞穴。（所以千萬別遲到歐不然不知道大家走哪去了）。
@@ -30,5 +36,5 @@ https://www.exploremaastricht.nl/en/maastricht-underground
 往上爬可以看風景，有我最喜歡的綠地～氛圍很舒服。
 
 ### 參觀心得：
-很喜歡這個景點，體驗很新奇！導覽很精彩。
++ 很喜歡這個景點，體驗很新奇！導覽很精彩。
 
