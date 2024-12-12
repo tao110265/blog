@@ -24,14 +24,21 @@ categories:
 <font color=#4287B5>中藍色is me</font> 
 <font color=#D1756F>藕粉色is me</font>
 <font color=#c36d67>灰粉色is me</font>
+
 <font color=#4599B6>文章連結顏色is me</font>
 <font color=#909497>灰色</font>
 #### <font color=#E08484>玫瑰粉色</font>
 #### <font color=#7FADD9>寶寶藍</font>
 #### <font color=#7AA2C7>灰藍色</font> 
- <u>正前方</u> ：底線
+
+<font color=#FF5656>紅色is me</font> 
+<font color=#E86D2D>髒橘色is me</font>
+
 
  **粗體** 
+
+底線：
+<u>感應式信用卡</u>
 
  換行：  <br>
  🚄搭火車：

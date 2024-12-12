@@ -12,19 +12,19 @@ categories:
 >本人喜好程度：🌝🌝🌝🌝🌝 旅伴喜好程度：🌝🌝🌝🌝🌝
 >遊玩時長：1hr
 >門票：付費入場
->鄰近景點：阿姆斯特丹音樂廳（Het Concertgebouw）、Moco Museum博物館、Rembrandts Amsterdam Experience沈浸式體驗、Amsterdam Pipe Museum古蹟博物館、范隆家族運河豪宅
-（Museum Van Loon）、、<font color=#4599B6>梵谷博物館</font>
+>鄰近景點：阿姆斯特丹音樂廳（Het Concertgebouw）、Moco Museum博物館、Rembrandts Amsterdam Experience沈浸式體驗、Amsterdam Pipe Museum古蹟博物館、范隆家族運河豪宅（Museum Van Loon）、<font color=#4599B6>梵谷博物館</font>
 <!-- more -->
 
-### 官網：https://www.rijksmuseum.nl
+### 官網：
+https://www.rijksmuseum.nl
 
 ### 注意事項：
-+ <font color=#c36d67>僅允許攜帶A4尺寸以下的包包進入博物館</font>，不幸的是，我們的<font color=#c36d67>免費衣帽間無法寄放大包包、旅行行李、折疊自行車、樂器、滑板…等。</font>大型物件請寄放於博物館廣場的儲物櫃。
++ <font color=#c36d67>僅允許攜帶A4尺寸以下的包包進入博物館</font>，<font color=#c36d67>免費衣帽間無法寄放大包包、行李、折疊自行車、樂器、滑板…等。</font>大型物件請寄放於博物館廣場的儲物櫃。
 + 博物館廣場的儲物櫃資訊：
 https://www.lockerpoint.com/lockerpoint-locations/lockerpoint-museumplein/
 
 ### 手機app導覽：
-+ <font color=#4287B5>免費的多媒體導覽，有中文可選擇，</font>遊覽內容與博物館內可租用的遊覽相同，開啟定位和藍牙服務以獲得最佳體驗，<font color=#4287B5>不要忘記帶耳機或可在博物館購買一副。</font>
++ <font color=#4287B5>免費的多媒體導覽，有中文可選擇，</font>遊覽內容與博物館內可租用的遊覽相同，開啟定位和藍牙服務以獲得最佳體驗，<font color=#4287B5>記得攜帶自己的耳機，如果忘記的話也可以在博物館購買一副。</font>
 + 詳細資訊請參：
 https://www.rijksmuseum.nl/en/whats-on/app
 
@@ -43,5 +43,5 @@ https://www.rijksmuseum.nl/en/whats-on/guided-tours/frans-hals
  
 ### 線上參訪維梅爾（Vermeer）展覽：
 + https://www.rijksmuseum.nl/nl/vermeer-360
-這個很棒的是點選畫作會有介紹，像安妮之家的官網一樣有線上導覽的功能，很喜歡！
+這個很棒的是點選畫作會有介紹，像<font color=#4599B6>安妮之家</font>的官網一樣有線上導覽的功能，很喜歡！
  
