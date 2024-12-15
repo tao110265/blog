@@ -9,11 +9,11 @@ categories:
   - 🥥 英國（倫敦） 
 ---
 {% cq %} 氣派的安息之地，一邊觀想過去，一邊成為歷史洪流的一部份 {% endcq %}
->	門票：付費入場
->本人喜好程度：🌝🌝🌝🌝🌝 旅伴喜好程度：🌝🌝🌝🌝
-遊玩時長：3hr ( 單純跟著耳機導覽的步調走就花費1hr )
-<font color=#D1756F>有使用london pass</font>，通票持有者無需提前預訂參觀時間。
-鄰近景點：<font color=#4599B6>大笨鐘</font>、<font color=#4599B6>倫敦眼</font>、西敏宮（Palace of Westminster）、珠寶塔（Jewel Tower）、維多利亞塔花園（Victoria Tower Gardens South）、Florence Nightingale Museum南丁格爾博物館、白金漢宮（Buckingham Palace）、西敏主教座堂（Westminster Cathedral）
+>**門票**：付費入場
+>**本人喜好程度**：🌝🌝🌝🌝🌝 旅伴喜好程度：🌝🌝🌝🌝
+>**遊玩時長：3hr** ( 單純跟著耳機導覽的步調走就花費1hr )
+>**有使用london pass**，通票持有者無需提前預訂參觀時間。
+>**鄰近景點**：<font color=#4599B6>大笨鐘</font>、<font color=#4599B6>倫敦眼</font>、西敏宮（Palace of Westminster）、珠寶塔（Jewel Tower）、維多利亞塔花園（Victoria Tower Gardens South）、Florence Nightingale Museum南丁格爾博物館、白金漢宮（Buckingham Palace）、西敏主教座堂（Westminster Cathedral）
 <!-- more -->
 
 ### 網站：

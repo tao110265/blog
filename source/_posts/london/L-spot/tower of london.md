@@ -9,12 +9,11 @@ categories:
   - 🥥 英國（倫敦） 
 ---
 {% cq %} 既是安全的堡壘和皇宮，又是惡名昭彰的監獄 {% endcq %}
->	門票：付費入場
->本人喜好程度：🌝🌝🌝🌝🌛 旅伴喜好程度：🌝🌝🌝🌝
-遊玩時長：2hr
-<font color=#D1756F>有使用london pass</font>，，通票持有者無需提前預訂參觀時間。
-鄰近景點：<font color=#4599B6>倫敦塔橋</font>、<font color=#4599B6>波羅市場</font>、帝國戰爭博物館貝爾法斯特號館
-（HMS Belfast）、利德賀市場（Leadenhall Market）
+>**門票**：付費入場
+>**本人喜好程度**：🌝🌝🌝🌝🌛 旅伴喜好程度：🌝🌝🌝🌝
+>**遊玩時長**：2hr
+>**有使用london pass**，通票持有者無需提前預訂參觀時間。
+>**鄰近景點**：<font color=#4599B6>倫敦塔橋</font>、<font color=#4599B6>波羅市場</font>、帝國戰爭博物館貝爾法斯特號館（HMS Belfast）、利德賀市場（Leadenhall Market）
 
 <!-- more -->
 ### 網站：

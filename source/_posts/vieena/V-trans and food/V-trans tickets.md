@@ -60,10 +60,9 @@ categories:
 「Wien Westbahnhof」、「Wien Mitte-Landstraße Bahnhof」、「Wien Hbf（Hauptbahnhof）」，這次旅行我住在「Wien Hbf」附近，很便利，走路即可抵達超市。
 + **車種** ：
 OBB鐵路（ex:<font color=#4287B5>RJ、RJX、REX、S7）</font>、機場快線CAT，兩者的自助售票機、乘車月台皆不同，CAT是淺綠色的，OBB是紅色的，CAT票價較高。
-   + 機場快線CAT：
-     -官網：https://www.cityairporttrain.com/en/home
-     -直達Wien Mitte，單程票價格為 14.9 歐元。
+   + 機場快線CAT：（直達「Wien Mitte」）
+    https://www.cityairporttrain.com/en/home
    + OBB：
-     -官網：https://shop.oebbtickets.at/en/ticket
+    https://shop.oebbtickets.at/en/ticket
  
  
