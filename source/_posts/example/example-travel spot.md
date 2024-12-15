@@ -40,9 +40,15 @@ categories:
 底線：
 <u>感應式信用卡</u>
 
+刪除線：
+~感應式信用卡~
+
  換行：  <br>
  🚄搭火車：
  🚇搭地鐵：
+
+ ### 文字插入網址：
+[售票網](https://shop.wienmobil.at/en/products/244872_VIE)
 
  ### 插入影片：
 + 用法
