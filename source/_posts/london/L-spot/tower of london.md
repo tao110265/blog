@@ -8,14 +8,17 @@ categories:
   - 🌴 旅遊體驗分享-目前皆為自助遊
   - 🥥 英國（倫敦） 
 ---
-{% cq %} 既是安全的堡壘和皇宮，又是惡名昭彰的監獄 {% endcq %}
 >**門票**：付費入場
->**本人喜好程度**：🌝🌝🌝🌝🌛 旅伴喜好程度：🌝🌝🌝🌝
+>**本人喜好程度**：🌝 x4.5，旅伴喜好程度：🌝 x4
 >**遊玩時長**：2hr
 >**有使用london pass**，通票持有者無需提前預訂參觀時間。
+<!-- more -->
 >**鄰近景點**：<font color=#4599B6>倫敦塔橋</font>、<font color=#4599B6>波羅市場</font>、帝國戰爭博物館貝爾法斯特號館（HMS Belfast）、利德賀市場（Leadenhall Market）
 
-<!-- more -->
+<br>
+{% cq %} 既是安全的堡壘和皇宮，又是惡名昭彰的監獄 {% endcq %}
+<br>
+
 ### 網站：
  + London pass官網：
 https://londonpass.com/en-us/london-attractions/tower-of-london
@@ -60,4 +63,4 @@ https://www.hrp.org.uk/tower-of-london/
  + https://www.hrp.org.uk/tower-of-london/history-and-stories/#gs.dvit1e
 
 ### 相關文章：
-+ <font color=#4599B6>【倫敦-景點】London pass：探索者通行證、全天暢遊通行證是什麼？涵括的景點有哪些、該如何使用？</font> 
++ <font color=#4599B6>【倫敦-行程表】六天五夜倫敦遊-行程時間表、London pass：探索者通行證、全天暢遊通行證是什麼？涵括的景點有哪些、該如何使用？</font> 

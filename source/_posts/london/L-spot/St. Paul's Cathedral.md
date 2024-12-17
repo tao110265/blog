@@ -8,14 +8,16 @@ categories:
   - 🌴 旅遊體驗分享-目前皆為自助遊
   - 🥥 英國（倫敦） 
 ---
-{% cq %} 探出頭，感受冷風吹拂，踏上近乎垂直的旋轉樓梯，橫跨白天與黑夜 {% endcq %}
 >**門票**：付費入場
->**本人喜好程度**：🌝🌝🌝🌝🌝 旅伴喜好程度：🌝🌝🌝🌝
+>**本人喜好程度**：🌝 x5，旅伴喜好程度：🌝 x4
 >**遊玩時長**：3hr30min (含40min的彌撒)
 >**有使用london pass**，通票持有者無需提前預訂參觀時間。
+<!-- more -->
 >**鄰近景點**：<font color=#4599B6>波羅市場</font>、One New Change購物中心、M&S Simply Food超市、環球劇場（Shakespeare's Globe）、泰特現代藝術館（Tate Modern）、波羅市場（Borough Market）、碎片塔（The Shard）、利德賀市場（Leadenhall Market）
 
-<!-- more -->
+<br>
+{% cq %} 探出頭，感受冷風吹拂，踏上近乎垂直的旋轉樓梯，橫跨白天與黑夜 {% endcq %} 
+<br>
 
 ### 簡要說明：
  + London pass官網：
@@ -51,4 +53,4 @@ https://www.stpauls.co.uk/guided-and-self-guided-tours
 <font color=#c36d67>導覽機在彌撒前要繳回工作人員</font>，如果沒繳的話工作人員會在彌撒開始前讓導覽機發出高頻聲音，去尋找未繳回的導覽機。
 
 ### 相關文章：
-+ <font color=#4599B6>【倫敦-景點】London pass：探索者通行證、全天暢遊通行證是什麼？涵括的景點有哪些、該如何使用？</font> 
++ <font color=#4599B6>【【倫敦-行程表】六天五夜倫敦遊-行程時間表、London pass：探索者通行證、全天暢遊通行證是什麼？涵括的景點有哪些、該如何使用？</font> 

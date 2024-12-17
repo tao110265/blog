@@ -10,9 +10,9 @@ categories:
 ---
 >**門票：**免費入場，若想玩遊樂設施的話再另外收費
 >**會再訪：**最吸引我的是跨年活動，但當天穿太單薄所以沒去，下次一定要去樂園玩！！
+ <!-- more -->
 >**鄰近景點**：百水藝術村（Hundertwasser Village）、漢德瓦薩之家（Hundertwasserhaus）
 
- <!-- more -->
 ### 簡要說明：
 + 官網1：https://www.praterwien.com/en/home
 + 官網2：https://www.koidls-prater.at/

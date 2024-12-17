@@ -9,12 +9,11 @@ categories:
   - 🌴 旅遊體驗分享-目前皆為自助遊
   - 🥥 荷蘭（阿姆斯特丹、烏特勒支、馬斯垂克、海爾倫、法肯堡）
 ---
->**門票**：教堂免費入場，但開放捐款以幫助保護建築
->**有音樂活動**
->**當時去的時候遇到整修沒開**
+>**門票**：教堂免費入場，但開放捐款以幫助保護建築（（（我當時去的時候遇到整修沒開。
+<!-- more -->
 >**鄰近景點**：船屋博物館（Houseboat Museum）、觀光船旅遊代理（Amsterdam Circle Line）、鋼琴博物館（Geelvinck Pianola Museum）、運河博物館（Museum of the Canals）、阿拉德·皮爾遜博物館（Allard Pierson）、阿姆斯特丹地牢
 （The Amsterdam Dungeon）、阿姆斯特丹王宮（Koninklijk Paleis Amsterdam）、新教堂（De Nieuwe Kerk）、<font color=#4599B6>安妮之家（Anne Frank House）</font>
-<!-- more -->
+
 ### 簡要介紹：
 + <font color=#4287B5>西教堂：</font> 
 Hendrick de Keyser是西教堂的建築師。該教堂由阿姆斯特丹市議會委託，於 1620年至1631年間建造。雖然西教堂不是阿姆斯特丹建造的第一座新教教堂，但它是世界上第一座最大的新教教堂。

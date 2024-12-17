@@ -8,6 +8,8 @@ categories:
   - 🌴 旅遊體驗分享-目前皆為自助遊
   - 🥥 荷蘭（阿姆斯特丹、烏特勒支、馬斯垂克、海爾倫、法肯堡）
 ---
+> 烏特勒支火車站有賣好多日用品 
+<!-- more -->
 ### 經驗分享 : 
 + 當天搭乘的火車為：Amsterdam Centraal -> Maastricht： 7:34-10:00。途中開到 Utrecht Centraal 時車長有告知旅客因為火車前方有事故，所以需要在此站下車。
 + 下車第一步就是跑去吃早餐啦！店名是「Julia’s」，相關文章可參考<font color=#4599B6>【荷蘭-美食】荷蘭超市有哪些？吃過的美食分享（Julia’s、Slagerij Van Melik Corio Center肉鋪、麥當勞、babs、Sichuan Taste） </font>。

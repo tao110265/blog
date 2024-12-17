@@ -1,5 +1,5 @@
 ---
-title: 【倫敦-交通】倫敦 Big bus 怎麼搭？實際搭乘分享
+title: 【倫敦-交通】倫敦「Big bus」怎麼搭？實際搭乘分享
 date: 2024-02-25 19:03:18
 updated: 2024-02-25 19:03:18
 tags:
@@ -8,19 +8,20 @@ categories:
   - 🌴 旅遊體驗分享-目前皆為自助遊
   - 🥥 英國（倫敦） 
 ---
+>**使用London pass搭乘**
+>**當日搭乘路線**：紅線22號坐到4號（有經過底站再出發）
+>**花費時間**：1hr
+>**乘車券**：一上車直接向司機出示「London pass」的 Qrcode ，司機掃描後會列印一張票券
+<!-- more -->
+
+<br>
 {% cq %} 手向天空伸，輕而易舉的碰觸那平常遙不可及的樹枝；眼睛瞪大的左右看，想盡可能地把兩側建築細節都收進眼底，以不同以往的視角環顧四周，非常興奮！ {% endcq %}
 <br>
 
-> 使用<font color=#4599B6>London pass</font> 搭乘
-> 當日搭乘：紅線22號坐到4號（有經過底站再出發）
-> 花費時間：1hr
-
-<!-- more -->
-
-### Big Bus的官網：
-+ 網站：https://www.bigbustours.com
+### Big Bus網站：
++ 官網：https://www.bigbustours.com
 有路線、停靠點…詳細訊息。
-+ 網站：（londonpass頁面）
++ londonpass頁面：
 https://londonpass.com/en/london-attractions/hop-on-hop-off-bus-tour
 ### 路線資訊：
 + 網站：

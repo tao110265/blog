@@ -11,17 +11,19 @@ categories:
 ---
 >**門票**：付費入場
 >**三個景點皆可使用london pass**，通票持有者無需提前預訂參觀時間。
->**有再訪意願**：都是事先有安排的行程，但實際旅行時沒去到，沒去的原因可參考<font color=#4599B6>六天五夜倫敦遊-行程時間表（含使用london pass）</font>
->**於2023年12月，「白金漢宮的女王畫廊」改名為「白金漢宮的國王畫廊」。**
-
+>**改名**：2023年12月，「白金漢宮的女王畫廊」改名為「白金漢宮的國王畫廊」。
 <!-- more -->
+>**有再訪意願**：都是事先有安排的行程，但實際旅行時沒去到，沒去的原因可參考<font color=#4599B6>【倫敦-行程表】六天五夜倫敦遊-行程時間表、London pass：探索者通行證、全天暢遊通行證是什麼？涵括的景點有哪些、該如何使用？</font>
 
 ### 白金漢宮的國王畫廊：
-<font color=#D1756F>於2023年12月，「白金漢宮的女王畫廊」改名為「白金漢宮的國王畫廊」</font>
-**London pass官網：**
+於2023年12月，「白金漢宮的女王畫廊」改名為「白金漢宮的國王畫廊」
+London pass官網：
 https://londonpass.com/en-us/london-attractions/The-Queens-Gallery
-**官網：**
+官網：
 https://www.rct.uk/visit/the-queens-gallery-buckingham-palace#/book_tickets
+
+<font color=#4287B5>背景：</font>
++ 國王美術館舊名女王美術館，是位於英國倫敦白金漢宮內的一座公共美術館，展示英國王室收藏的美術品，平時大約展示有450件藏品。國王美術館位於白金漢館西側，地處一座在二戰期間被轟炸的禮拜堂的舊址之上，在1962年首次公開。
 
 <font color=#4287B5>營業時間</font>
 + 國王畫廊是正在運營的皇宮的一部分，因此有時可能會在短時間內關閉，任何關閉日期都有在官網首頁列出。
@@ -30,18 +32,22 @@ https://www.rct.uk/visit/the-queens-gallery-buckingham-palace#/book_tickets
 https://www.rct.uk/visit/the-kings-gallery-buckingham-palace/practical-information-for-visiting-the-kings-gallery
 + **語音導覽**
 有免費的英文多媒體指南（包括專家的評論和對展覽的特別見解），可以使用自己的標準有線耳機，參觀時間約為 1 小時。
-+ <font color=#c36d67>禁止進食和飲水，瓶裝水除外。</font>
++ <font color=#c36d67>禁止飲食和飲水，瓶裝水除外。</font>
 + **安檢**
 抵達後，將接受機場式的安全檢查，<u>請在通過安檢拱門之前從口袋中取出所有金屬物品</u> 。為了提高效率，我們建議將相機、手機、鑰匙和錢包放入包中，然後再將包放入安全掃描器。
 + **行李**
-畫廊設<font color=#c36d67>有衣帽間</font>，可以在參觀期間免費存放外套和包包。<font color=#c36d67>有些物品不允許帶入展覽空間，必須存放在衣帽間，例如長傘和大包。</font>
-
+畫廊設有衣帽間，可以在參觀期間免費存放外套和包包。有些物品不允許帶入展覽空間，必須存放在衣帽間，例如長傘和大包。
 
 ### 皇家馬廄
 London pass官網：
 https://londonpass.com/en-us/london-attractions/royal-mews
 官網：
 https://www.rct.uk/visit/the-royal-mews-buckingham-palace
+
+<font color=#4287B5>背景：</font>
++ 現在的皇家馬厩建於 1825 年，建於白金漢宮的花園內。在亨利七世統治之前的大約 100 年裡，國王馬厩一直位於倫敦國家美術館現址的查令十字街。
+皇家馬厩負責在國王和王室成員在加冕典禮、議會開幕式和國家元首訪問等國家活動期間使用，且每年約有 50 趟馬車載著新任命的高級專員和大使前往白金漢宮向君主遞交國書。
++ 自 1843 年以來，每天都有四輪馬車從皇家馬厩出發，在白金漢宮和聖詹姆斯宮之間收集和投遞郵件。最新加入皇家馬車系列的馬車是鑽禧國家馬車，它是為紀念伊麗莎白二世女王登基五十週年而建造的。
 
 <font color=#4287B5>營業時間</font>
 + 皇家馬厩是正在運營的皇宮的一部分，因此有時可能會在短時間內關閉，任何關閉日期都有在官網首頁列出。
@@ -54,12 +60,16 @@ https://www.rct.uk/visit/the-royal-mews-buckingham-palace/practical-information-
 抵達後，將接受機場式的安全檢查，<u>請在通過安檢拱門之前從口袋中取出所有金屬物品</u> 。為了提高效率，我們建議將相機、手機、鑰匙和錢包放入包中，然後再將包放入安全掃描器。
 + **行李**
 皇家馬厩<font color=#c36d67>沒有衣帽間或儲藏設施</font>，因此您在參觀期間必須隨身攜帶所有包包和嬰兒車。
++ <font color=#c36d67>禁止飲食，瓶裝水除外。在進入之前，您將被要求將飲料和食物放入密閉的袋子中。</font>
 
-<font color=#4287B5>導遊服務</font>
+<font color=#4287B5>導遊服務：</font>
 https://www.rct.uk/visit/the-royal-mews-buckingham-palace/highlights-of-the-royal-mews##guidedtour
 + 您可以在我們的管理員的帶領下免費參觀皇家馬厩45分鐘。了解有關歷史悠久的馬車和現代汽車的詳細信息，並了解為重大國家和儀式場合做準備所需的工作。
 + 遊覽時間為每天 10:15、11:00、12:00、13:00、14:00、15:00 和 16:00。集合點位於馬廄的正對面。
 + 我們也在週六和週日的 11:30 和 13:30 提供特別的家庭旅遊。
+
+<font color=#4287B5>互動地圖：</font>
++ https://interactives.rct.uk/maps/royal_mews.html?_ga=2.93412189.1391228961.1734314321-469613943.1734314321
 
 
 ### 阿普斯利邸宅 Apsley House（資訊整理至官網、London pass官網）
@@ -75,12 +85,13 @@ https://www.wellingtoncollection.co.uk/plan-your-visit/
 + 每隔一段期間可能有所不同，官網會公告。
  
 <font color=#4287B5>活動</font>
-https://www.wellingtoncollection.co.uk/events/
-活動不只兩個，以下舉兩個為例：
-+ **謀殺之謎**
-與Torchlight Heritage合作，是與時間賽跑的解謎遊戲。遊戲背景如下：威靈頓公爵邀請他的重要客人參加一場特別的晚間招待會……但如果客人抵達後不久，就發現了可怕的情況：其中一位客人被謀殺了！為了防止醜聞發生，我們必須競相解開這個謎。
-+ **公爵的客人－阿普斯利別墅之夜**
-與Torchlight Heritage合作，將舉辦一個特別的晚會，內容包括禮儀、八卦、舞蹈課程和紙牌遊戲。了解攝政時期的美食、美酒和美食，了解威靈頓如何招待賓客，這將是對攝政的完美介紹，在進入舞廳練習之前了解服裝、社會地位和禮儀的重要性。鼓勵穿著攝政時期的服裝、長袍和製服。票價包括接待飲料。
++ https://www.wellingtoncollection.co.uk/events/
+
+<font color=#4287B5>內飾：</font>
++ https://www.wellingtoncollection.co.uk/interiors/
+
+<font color=#4287B5>收藏品：</font>
++ https://www.wellingtoncollection.co.uk/the-wellington-collection/
 
 ### 相關文章：
-+ <font color=#4599B6>【倫敦-景點】London pass：探索者通行證、全天暢遊通行證是什麼？涵括的景點有哪些、該如何使用？</font> 
++ <font color=#4599B6>【倫敦-行程表】六天五夜倫敦遊-行程時間表、London pass：探索者通行證、全天暢遊通行證是什麼？涵括的景點有哪些、該如何使用？</font> 

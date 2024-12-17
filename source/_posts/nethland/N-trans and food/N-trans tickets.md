@@ -8,18 +8,17 @@ categories:
   - 🌴 旅遊體驗分享-目前皆為自助遊
   - 🥥 荷蘭（阿姆斯特丹、烏特勒支、馬斯垂克、海爾倫、法肯堡）
 ---
-### 簡要說明：
-+ 本次旅行地點除了荷蘭市區外，還有移動到郊區，移動軌跡含<font color=#4287B5>Amsterdam (阿姆斯特丹)</font>、<font color=#4287B5>Zaandijk Zaanse Schans (風車村)</font>、<font color=#4287B5>Utrecht (烏特勒支)</font>、<font color=#4287B5>Maastricht (馬斯垂克)</font>、<font color=#4287B5>Vleuten (法肯爾堡)</font>、<font color=#4287B5>Heerlen (海爾倫)。</font>
-+ 全程使用 **感應式信用卡**、**ns app電子票** 搭乘大眾交通公具，沒有另外購買其他交通卡。
-+ 有使用到的app：9292、ns
 
+> **旅行地點**：除了荷蘭市區外，還有移動到郊區，移動軌跡含 <font color=#4287B5>Amsterdam (阿姆斯特丹)</font>、<font color=#4287B5>Zaandijk Zaanse Schans (風車村)</font>、<font color=#4287B5>Utrecht (烏特勒支)</font>、<font color=#4287B5>Maastricht (馬斯垂克)</font>、<font color=#4287B5>Vleuten (法肯爾堡)</font>、<font color=#4287B5>Heerlen (海爾倫)。</font>
+> **實際經驗**：全程使用「感應式信用卡」、「ns app電子票」搭乘大眾交通公具，沒有另外購買其他交通卡。
 <!-- more -->
 
 ### 行程規劃：
-+  **<font color=#D1756F>9292 app：</font>**
++ 有使用到的app：「9292」、「ns」
++  **<font color=#D1756F>「9292」：</font>**
 可以查詢荷蘭境內的交通，包含火車、地鐵、電車、公車、渡輪，下圖以Vleuten火車站前往德哈爾古堡的路線為例，轉乘資訊、時長、票價…都寫得很清楚，當天也依此app順利搭上公車前往古堡。
 網頁版：https://9292.nl/en
-+  **<font color=#D1756F>ns app ：</font>**
++  **<font color=#D1756F>「ns」：</font>**
 火車資訊我會使用ns app查詢，這款app的優點有寫在另一篇文章，可參考<font color=#4599B6>【荷蘭-交通】荷蘭火車怎麼搭？實際搭乘經驗分享</font>。
 網頁版：https://www.ns.nl/en/travel-information
 

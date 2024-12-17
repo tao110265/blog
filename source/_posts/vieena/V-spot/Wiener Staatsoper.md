@@ -9,10 +9,10 @@ categories:
   - 🥥 奧地利（維也納) 
 ---
 >**門票：**付費入場
->**本人喜好程度：**🌝🌝🌝🌝 旅伴喜好程度：🌝🌝🌝🌝
+>**本人喜好程度：**🌝 x4，旅伴喜好程度：🌝 x4
 >**參觀場次：**13:15~14:00 
->**鄰近景點：**安娜教堂（Annakirche）、音樂博物館（Haus der Musik）、Zuckerlwerkstatt糖果店、城堡公園（Burggarten）、霍夫堡（Hofburg）、霍夫堡聖母升天小堂（Wiener Hofburgkapelle / Wiener Hofmusikkapelle）、卡爾教堂（Karlskirche）
 <!-- more -->
+>**鄰近景點：**安娜教堂（Annakirche）、音樂博物館（Haus der Musik）、Zuckerlwerkstatt糖果店、城堡公園（Burggarten）、霍夫堡（Hofburg）、霍夫堡聖母升天小堂（Wiener Hofburgkapelle / Wiener Hofmusikkapelle）、卡爾教堂（Karlskirche）
 
 ### 導遊服務：
 https://www.wiener-staatsoper.at/en/guided-tours/

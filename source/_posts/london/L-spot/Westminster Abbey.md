@@ -8,13 +8,16 @@ categories:
   - 🌴 旅遊體驗分享-目前皆為自助遊
   - 🥥 英國（倫敦） 
 ---
-{% cq %} 氣派的安息之地，一邊觀想過去，一邊成為歷史洪流的一部份 {% endcq %}
 >**門票**：付費入場
->**本人喜好程度**：🌝🌝🌝🌝🌝 旅伴喜好程度：🌝🌝🌝🌝
->**遊玩時長：3hr** ( 單純跟著耳機導覽的步調走就花費1hr )
+>**本人喜好程度**：🌝 x5，旅伴喜好程度：🌝 x4
+>**遊玩時長：3hr** ( 單純跟著耳機導覽的步調就花費1hr )
 >**有使用london pass**，通票持有者無需提前預訂參觀時間。
->**鄰近景點**：<font color=#4599B6>大笨鐘</font>、<font color=#4599B6>倫敦眼</font>、西敏宮（Palace of Westminster）、珠寶塔（Jewel Tower）、維多利亞塔花園（Victoria Tower Gardens South）、Florence Nightingale Museum南丁格爾博物館、白金漢宮（Buckingham Palace）、西敏主教座堂（Westminster Cathedral）
 <!-- more -->
+>**鄰近景點**：<font color=#4599B6>大笨鐘</font>、<font color=#4599B6>倫敦眼</font>、西敏宮（Palace of Westminster）、珠寶塔（Jewel Tower）、維多利亞塔花園（Victoria Tower Gardens South）、Florence Nightingale Museum南丁格爾博物館、白金漢宮（Buckingham Palace）、西敏主教座堂（Westminster Cathedral）
+
+<br>
+{% cq %} 氣派的安息之地，一邊觀想過去，一邊成為歷史洪流的一部份 {% endcq %}
+<br>
 
 ### 網站：
  + London pass官網：
@@ -61,4 +64,4 @@ https://www.westminster-abbey.org/worship-music/services-times/organ-recitals
 
 
 ### 相關文章：
-+ <font color=#4599B6>【倫敦-景點】London pass：探索者通行證、全天暢遊通行證是什麼？涵括的景點有哪些、該如何使用？</font> 
++ <font color=#4599B6>【倫敦-行程表】六天五夜倫敦遊-行程時間表、London pass：探索者通行證、全天暢遊通行證是什麼？涵括的景點有哪些、該如何使用？</font> 
