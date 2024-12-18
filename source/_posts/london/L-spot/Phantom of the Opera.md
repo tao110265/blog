@@ -1,7 +1,7 @@
 ---
 title: 【倫敦-景點】歌劇魅影 (The Phantom of the Opera) 
-date: 2024-02-25 21:03:18
-updated: 2024-02-25 21:03:18
+date: 2024-11-1 00:00:10
+updated: 2024-11-1 00:00:10
 tags:
   - 倫敦-景點
 categories: 
@@ -10,10 +10,10 @@ categories:
 ---
 >**門票**：付費入場
 >**本人喜好程度**：🌝 x5，旅伴喜好程度：🌝 x4
-**當天觀賞場次**：14:30-17:00
-**演出劇院**：His Majesty's Theatre
+>**當天觀賞場次**：14:30-17:00
+>**演出劇院**：His Majesty's Theatre
 <!-- more -->
-**鄰近景點**：<font color=#4599B6>國家美術館</font>、、M&M'S London糖果店、特拉法加廣場（Trafalgar Square）、The Crystal Maze LIVE Experience密室逃脫中心
+>**鄰近景點**：<font color=#4599B6>國家美術館</font>、M&M'S London糖果店、特拉法加廣場（Trafalgar Square）、密室逃脫中心 (The Crystal Maze LIVE Experience)
 
 <br>
 {% cq %} 學生時期音樂老師放的影片就這麽活脫脫地出現在台上，一個在腦海裡播放， 一個發生在眼前，在此刻相互交織，匯集成新記憶 {% endcq %}
@@ -30,30 +30,24 @@ categories:
 
 ### 購票：
 此次買票我是使用「SeatPlan」找好想要的座位，再以「LW Theaters」訂票劃位
+
 **英文購票網：**
 + 例如：LW Theaters、TodayTix、london theatre、SeatPlan...。
-+ 「LW Theaters」有推出貴賓服務- Gold Experience
-網址：https://lwtheatres.co.uk/whats-on/the-phantom-of-the-opera/
++ 「LW Theaters」有推出貴賓服務- [「Gold Experience」](https://lwtheatres.co.uk/whats-on/the-phantom-of-the-opera/)
 
 **中文售票網：**
 + kkday、klook 也有賣票，但它們不能選座位號碼只能選區域。
 
 **選擇座位：**
-+ <font color=#D1756F>「SeatPlan」</font>：<font color=#D1756F>可以查詢座位的視角圖！！</font>
-這個我覺得很重要！先了解座位視角再買票，比較不會有落差，點進網址內可以看到別人上傳的座位照片、評價。
-網址：https://seatplan.com/london/phantom-of-the-opera-tickets/
-   
++ [「SeatPlan」](https://seatplan.com/london/phantom-of-the-opera-tickets/) ：**可以查詢座位的視角圖！！**這個我覺得很重要！先了解座位視角再買票，比較不會有落差，點進網址內可以看到別人上傳的座位照片、評價。
+
 **特惠票：**
-+ 「LW Theaters」：
-https://uk.thephantomoftheopera.com/day-tickets/
-如果不太在意座位，可以搶看看當日限量票
-+ 「TodayTix」：
-https://www.todaytix.com/
-有推出**Rush (當日限量票) 、Lottery (抽籤獲得便宜票)** 的功能，想使用Rush功能要下載「TodayTix」的 app。
++ [「LW Theaters」](https://uk.thephantomoftheopera.com/day-tickets/) ：如果不太在意座位，可以搶看看當日限量票
++ [「TodayTix」](https://www.todaytix.com/) ：有推出**Rush (當日限量票) 、Lottery (抽籤獲得便宜票)** 的功能，想使用Rush功能要下載「TodayTix」的 app。
    
 ### 參觀心得：
 + 小學的音樂老師就在放歌劇魅影，那時候看就好喜歡，超級期待這次能看到真人演出，衣服很華麗，演員唱歌也很好聽，從演員的表情、肢體動作都看得出來他們很投入在角色內，看到尾聲情緒隨著演員波動，演出結束後感動到哭，超激動的！但<font color=#4287B5>受限於表演時長，有省略掉蠻多劇情有點可惜，建議事先了解一下劇情大綱，會比較融入其中。</font> 
 
 ### 圖片：
-+ 場景很華麗，「LW Theaters」官網有放幾張劇照可以看看，網址：https://lwtheatres.co.uk/whats-on/the-phantom-of-the-opera/
-+ <font color=#c36d67>演出時不能拍照或攝影</font> ，現場就用眼睛欣賞啦～
++ 場景很華麗，[「LW Theaters」](https://lwtheatres.co.uk/whats-on/the-phantom-of-the-opera/)有放幾張劇照可以看看。
++ **演出時不能拍照或攝影** ，現場就用眼睛欣賞啦～

@@ -1,7 +1,7 @@
 ---
 title: 【倫敦-景點】聖保羅座堂 (St. Paul's Cathedral) 
-date: 2024-02-25 21:03:18
-updated: 2024-02-25 21:03:18
+date: 2024-11-1 00:00:07
+updated: 2024-11-1 00:00:07
 tags:
   - 倫敦-景點
 categories: 
@@ -20,26 +20,21 @@ categories:
 <br>
 
 ### 簡要說明：
- + London pass官網：
- https://londonpass.com/en/london-attractions/st-pauls-cathedral
- + 景點官網：
- https://www.stpauls.co.uk/
-+ 參觀範圍：一樓、地穴(地下室)、向上爬三層樓(有買London pass的要出示)
-+ 有中文語音導覽。
-+ <font color=#D1756F>16:30後全館禁止拍照，因為17:00會有彌撒。</font>
++ [London pass官網]( https://londonpass.com/en/london-attractions/st-pauls-cathedral)、[景點官網]( https://www.stpauls.co.uk/) 
++ **參觀範圍**：一樓、地穴 (地下室)、向上爬三層樓(有買London pass的要出示)
++ **London pass有含中文語音導覽**
++ **16:30後全館禁止拍照，因為17:00會有彌撒**
++ [大教堂的藝術](https://www.stpauls.co.uk/exploring-faith-through-art)：探索一​​些關鍵藝術品背後的故事
++ [週日管風琴演奏會](https://www.stpauls.co.uk/organ-recitals-new)：每週日下午 4.30 舉辦半小時的管風琴演奏會（除非另有說明）。這些免費且無需門票的音樂會讓每個人都有機會聆聽大管風琴演奏。 
 
 ### 導遊服務 (Guided tours)：
-https://www.stpauls.co.uk/guided-and-self-guided-tours
- 持門票者即可參加免費導覽，有兩種可選擇，兩者皆需當天向櫃檯預訂，導覽時間通常為週一至週六的上午11點至下午3點，準確時間需詢問櫃台。
+ 持門票者即可參加免費 [導覽](https://www.stpauls.co.uk/guided-and-self-guided-tours)，有兩種可選擇，兩者皆需當天向櫃檯預訂，導覽時間通常為週一至週六的上午11點至下午3點，準確時間需詢問櫃台。
   + <font color=#4287B5>亮點巡演 (Highlights tour)：</font> 
-  價格：持票者免費，時長約20~30分鐘
-  簡短介紹大教堂歷史和建築。
+  **價格：持票者免費，時長約20~30分鐘**，簡短介紹大教堂歷史和建築。
   + <font color=#4287B5>大教堂樓層與地穴之旅 (Cathedral Floor and Crypt tour)：</font> 
-  價格：持票者免費，時長約60~90分鐘
-  參觀範圍包括Cathedral Floor and Crypt, as well as the Geometric Staircase and the Quire ，通常會包含不向遊客開放的區域。
+  **價格：持票者免費，時長約60~90分鐘**，參觀範圍包括Cathedral Floor and Crypt, as well as the Geometric Staircase and the Quire ，通常會包含不向遊客開放的區域。
   + <font color=#4287B5>特里論壇之旅 (The Triforium tour)：</font> 
-  價格：**每人15英鎊**，另含門票，時長約60分鐘。
-  將帶領遊客前往 Triforium，包括圖書館、獎杯室和偉大的模型，以及從標誌性幾何樓梯頂部向下欣賞的壯麗景色，以及從大西門上方向下欣賞中殿的壯麗景色，可以深入幕後參觀大教堂，但 Triforium 之旅涉及許多樓梯，不幸的是不適合坐輪椅或行動不便的人士。
+  **價格：每人15英鎊，需另外購票，時長約60分鐘**，將帶領遊客前往 Triforium，包括圖書館、獎杯室和偉大的模型，以及從標誌性幾何樓梯頂部向下欣賞的壯麗景色，可以深入幕後參觀大教堂，此導覽遊覽路線涉及 141 個台階，不幸的是不適合坐輪椅或行動不便的人士。
 
 ### 參觀動線：
 + <font color=#4287B5>一樓、B1地穴：</font>
@@ -50,7 +45,7 @@ https://www.stpauls.co.uk/guided-and-self-guided-tours
 在教堂內一樓通往樓上的樓梯口處，會有指標，使用London pass入場的只要出示Qrcode就可以進入樓梯往上爬，第一層可以近看穹頂畫，第二層、第三層都是看風景，差別在於圍牆的高度，接近黃昏時景色很美，樓梯蠻窄小，爬累的話中途有座位可休息，風景很值得。當時覺得爬得好累，殊不知<font color=#4599B6>維也納聖史蒂芬大教堂(Stephansdom)旁的南塔</font>才是大魔王。
 + <font color=#4287B5>彌撒：</font>
 時長約40分鐘，座位會分兩區，都是免費的，靠近中央的是**禱告區**，館內人員會發一張紙，上面有禱告的內容，讓民眾可以跟著唸，後面一區離出口較近的是**觀禮區**，工作人員不會特別發那張紙，但想要的話可以跟工作人員領取。
-<font color=#c36d67>導覽機在彌撒前要繳回工作人員</font>，如果沒繳的話工作人員會在彌撒開始前讓導覽機發出高頻聲音，去尋找未繳回的導覽機。
+**語音導覽機在彌撒前要繳回工作人員手中**，如果沒繳的話工作人員會在彌撒開始前讓導覽機發出高頻聲音，去尋找未繳回的導覽機。
 
 ### 相關文章：
-+ <font color=#4599B6>【【倫敦-行程表】六天五夜倫敦遊-行程時間表、London pass：探索者通行證、全天暢遊通行證是什麼？涵括的景點有哪些、該如何使用？</font> 
++ <font color=#4599B6>【倫敦-行程表】六天五夜倫敦遊-行程時間表、London pass：探索者通行證、全天暢遊通行證是什麼？涵括的景點有哪些、該如何使用？</font> 

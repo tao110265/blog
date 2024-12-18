@@ -1,7 +1,7 @@
 ---
 title: 【倫敦-景點】自然史博物館 (Natural History Museum) 
-date: 2024-02-25 21:03:18
-updated: 2024-02-25 21:03:18
+date: 2024-11-1 00:00:11
+updated: 2024-11-1 00:00:11
 tags:
   - 倫敦-景點
   - 免費景點    
@@ -20,19 +20,14 @@ categories:
 {% cq %} 呼吸感到急促，思緒混雜，腳步加快，走馬看花的逛著 {% endcq %}
 <br>
 
-### 官網：
-+ https://www.nhm.ac.uk/visit/galleries-and-museum-map.html
-
-### 跨年活動 (New Year's Eve)：
-繼去年的場場爆滿活動之後，我們的除夕派對又回來了，歡迎與我們一起創造自然歷史，慶祝 2025 年的到來！
-+ 官網：https://www.nhm.ac.uk/events/new-years-eve.html
-+ 時間：12月31日的 20:00–01:30（最後入場時間為22:00）
-+ <font color=#c36d67>此活動適合 18 歲及以上人士</font>，我們會要求您在入場時出示附有照片的有效身份證件
-+ 沒有正式的服裝要求
-+ <font color=#4287B5> 標準票：</font>
-早鳥標準成人 (Early bird standard adult)：115英鎊
-+ <font color=#4287B5> 貴賓票：</font>
-今年，我們將首次提供數量有限的 VIP 門票，為客人提供帶私人酒吧、娛樂設施、免費飲料等的專屬區域！ 早鳥貴賓成人 (Early bird VIP adult)：200英鎊 
+### 簡要說明：
++ [官網](https://www.nhm.ac.uk/visit/galleries-and-museum-map.html)
++ [跨年活動 (New Year's Eve)](https://www.nhm.ac.uk/events/new-years-eve.html)：繼去年的場場爆滿活動之後，我們的除夕派對又回來了，歡迎與我們一起創造自然歷史，慶祝 2025 年的到來！
+。時間：12月31日的 20:00–01:30（最後入場時間為22:00）
+。<font color=#c36d67>此活動適合 18 歲及以上人士</font>，我們會要求您在入場時出示附有照片的有效身份證件
+。沒有正式的服裝要求、有衣帽間可使用、適合輪椅族
+。不能攜帶自己的酒類入場
+。無法退款或更改
 
 ### 參觀動線：
 + 有兩個入口，一個是<font color=#4287B5>「Hintze Hall」，</font> 位於Cromwell Road，另一個是<font color=#4287B5>「Earth Hall」</font> ，位於Exhibition Road。
